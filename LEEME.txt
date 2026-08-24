@@ -1,0 +1,25 @@
+SORPRESA PARA MARIA - 7 PAGINAS
+
+Archivos:
+index.html
+pagina2.html
+pagina3.html
+pagina4.html
+pagina5.html
+pagina6.html
+pagina7.html
+
+FOTOS:
+Coloca en esta misma carpeta:
+foto1.jpg
+foto2.jpg
+foto3.jpg
+foto4.jpg
+
+Y MUY IMPORTANTE:
+maria.png
+
+maria.png es la imagen que aparece como fondo/revelacion FINAL en la pagina 7.
+
+Abre index.html en Chrome o Edge.
+No cambies los nombres de las fotos.
